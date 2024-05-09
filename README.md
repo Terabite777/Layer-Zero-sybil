@@ -1,6 +1,6 @@
 Скачиваем https://nodejs.org/en/download
 
-И это https://www.jetbrains.com/webstorm/download/#section=windows
+И это https://www.jetbrains.com/webstorm/download/
 
 Устанавливаем
 
